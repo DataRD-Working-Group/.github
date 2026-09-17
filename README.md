@@ -1,2 +1,4 @@
-# .github
-Repo to hold the org README.
+# Home of the LISA Consortium Data Analysis R&D Working Group
+
+
+
